@@ -1,5 +1,5 @@
 # Get input from the user
-date = int(input("Enter the date (1-31  "))
+date = int(input("Enter the date (1-31):  "))
 month = int(input("Enter the month (1-12): "))
 year = int(input("Enter the year (e.g. 2003): "))
 
